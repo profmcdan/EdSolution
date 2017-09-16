@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\bin\Debug\netcoreapp2.0\EdSolution.deps.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\bin\Debug\netcoreapp2.0\EdSolution.runtimeconfig.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\bin\Debug\netcoreapp2.0\EdSolution.runtimeconfig.dev.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\bin\Debug\netcoreapp2.0\EdSolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\bin\Debug\netcoreapp2.0\EdSolution.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.AssemblyInfo.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EdSolution\EdSolution\obj\Debug\netcoreapp2.0\EdSolution.pdb
